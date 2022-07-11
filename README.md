@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">I'm Frontend developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sametili&label=Profile%20views&color=0e75b6&style=flat" alt="sametili" /> </p>
 
 - 🌱 I’m currently learning **Frontend development**
 
