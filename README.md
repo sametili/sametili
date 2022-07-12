@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript and react**
 
-- 📫 How to reach me **www.linkedin.com/in/samet-ili-3s34343434/**
+- 📫 How to reach me getdarksouls@gmail.com
 - 📍 Currently base at: Istanbul, Turkey
 
 
