@@ -8,6 +8,8 @@
 - 💬 Ask me about **Javascript and react**
 
 - 📫 How to reach me **www.linkedin.com/in/samet-ili-3s34343434/**
+- 📍 Currently base at: Istanbul, Turkey
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
