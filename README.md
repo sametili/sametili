@@ -22,4 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametili&show_icons=true&locale=en&layout=compact" alt="sametili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametili&" alt="sametili" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametili&show_icons=true&locale=en" alt="sametili" /></p>
 
